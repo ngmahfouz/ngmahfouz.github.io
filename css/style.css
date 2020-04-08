@@ -158,6 +158,7 @@
 		color: #bbb;
 		position: relative;
 		margin: 0 0 1.5em 0;
+		display: inline;
 	}
 
 	header h2 + p {
