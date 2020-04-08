@@ -1051,6 +1051,7 @@
 			#banner p a {
 				color: #ffffff;
 				text-decoration: none;
+				display: inline;
 			}
 
 /* Footer */
