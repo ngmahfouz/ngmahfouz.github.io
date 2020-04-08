@@ -414,6 +414,9 @@
 		}
 
 /* Icon */
+.iconify[data-icon="fa-brands:goodreads"] {
+  color: #f00;
+}
 
 	.icon {
 		text-decoration: none;
