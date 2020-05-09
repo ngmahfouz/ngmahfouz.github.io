@@ -426,6 +426,12 @@
   color: gray;
 }
 
+/* Icon */
+.iconify[data-icon="carbon:generate-pdf"] {
+  color: gray;
+}
+
+
 	.icon {
 		text-decoration: none;
 		border-bottom: none;
