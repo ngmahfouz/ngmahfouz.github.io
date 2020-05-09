@@ -414,7 +414,15 @@
 		}
 
 /* Icon */
-.iconify[data-icon="fa-brands:goodreads"] {
+.iconify[data-icon="simple-icons:goodreads"] {
+  color: gray;
+}
+/* Icon */
+.iconify[data-icon="simple-icons:googlescholar"] {
+  color: gray;
+}
+/* Icon */
+.iconify[data-icon="simple-icons:linkedin"] {
   color: gray;
 }
 
